@@ -1,4 +1,12 @@
+公式サイトのサンプルアプリケーション、spring-petclinicを勉強用に改変しています。ライセンスは以下です。
 
+# License
+
+The Spring PetClinic sample application is released under version 2.0 of the [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
+
+
+
+[spring-petclinic]: https://github.com/spring-projects/spring-petclinic
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
 Deploy this sample application to Pivotal Web Services:
 
