@@ -1,4 +1,5 @@
 公式サイトのサンプルアプリケーション、spring-petclinicを勉強用に改変しています。ライセンスは以下です。
+
 [spring-petclinic]: https://github.com/spring-projects/spring-petclinic
 
 # License
